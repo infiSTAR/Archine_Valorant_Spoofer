@@ -31,7 +31,7 @@ wooferdestroyed = C:\\Windows\\System32\\ifsutipx.exe		LAPTOPS(https://anonfiles
 
 Iamfucked = C:\\Windows\\winhlp64.dll				LAPTOPS(https://anonfiles.com/t5C17eD9uf/winhlp64_dll)(https://anonfiles.com/XaC87aDau7/winhlp64_Source_bat) PC(https://anonfiles.com/5aC571D0ue/winhlp64_dll)(https://anonfiles.com/f7D87eDau1/winhlp64_Source_bat)
 
-fallen = C:\\Archine.rom					Basically gotten from ifsutipx.exe Archine.rom /o
+fallen = C:\\Archine.rom					Basically gotten from ifsutipx.exe C:\Archine.rom /o
 
 Scammedbro = C:\\Windows\\ntelidcx.dll				https://anonfiles.com/5eD974Dbue/ntelidcx_dll (https://anonfiles.com/ReFf7eD1u6/ntelidcx_Source_bat)
 
