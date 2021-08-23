@@ -1,5 +1,5 @@
 # Archine Valorant Spoofer
-Full reverse engineered source code of a pasted valorant spoofer called archine.
+Fully reverse engineered source code of a pasted valorant spoofer called archine.
 
 
 Cracked and meme'd by CODEX
