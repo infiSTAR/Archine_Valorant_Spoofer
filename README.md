@@ -2,6 +2,9 @@
 Fully reverse engineered source code of a pasted valorant spoofer called archine.
 
 
+Please do not buy archine spoofer, the owner are literal scumbags with 0 knowledge. They will take your money and run away giving you pasted shit, if you ask for a refund they will say wait for archine which obviously is on but indeed ghosting to avoid refunding. Their entire server will be nuked as well as brand wiped in under a week.
+
+
 Cracked and meme'd by CODEX
 
 
