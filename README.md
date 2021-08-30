@@ -8,6 +8,20 @@ Please do not buy archine spoofer, the owner are literal scumbags with 0 knowled
 Cracked and meme'd by CODEX
 
 
+------------------------------------------------------------------------------------------------
+
+[Decompiled Source]
+
+https://megafile.cc/d/exg6/archinewinmain
+
+------------------------------------------------------------------------------------------------
+
+[Built Binary]
+
+https://megafile.cc/d/W0ko/archinefullyrecodedfromdecompilation
+
+------------------------------------------------------------------------------------------------
+
 [KeyAuth Details]
 
 Application Name: YuutaBuuta
@@ -39,16 +53,3 @@ fallen = C:\\Archine.rom					Basically gotten from ifsutipx.exe C:\Archine.rom /
 Scammedbro = C:\\Windows\\ntelidcx.dll				https://anonfiles.com/5eD974Dbue/ntelidcx_dll (https://anonfiles.com/ReFf7eD1u6/ntelidcx_Source_bat)
 
 Mamisgay = C:\\Windows\\AppVLicense.dll				https://anonfiles.com/FaD47eD8u8/AppVLicense_dll (https://anonfiles.com/JeD179D9u5/AppVLicense_Source_bat)
-
-
-------------------------------------------------------------------------------------------------
-
-[Decompiled Source]
-
-https://anonfiles.com/N6728cD6uf/ArchineWinMain_html
-
-------------------------------------------------------------------------------------------------
-
-[Built Binary]
-
-https://anonfiles.com/DcJ885D8u0/ArchineFullyRecodedFromDecompilation_exe
